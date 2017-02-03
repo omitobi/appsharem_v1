@@ -316,7 +316,15 @@ hr {
     height: auto;
 }
 
-#intro.intro {
+.extras {
+    width:100%;
+    position:relative;
+    background: url(../img/sharem_bg_2.jpg) no-repeat top center;
+    background-size: cover;
+    height: auto;
+}
+
+#intro.intro, #extras.extras {
 	padding:20% 0 0 0;
 }
 
